@@ -7,5 +7,8 @@
 7.$ git init
     Reinitialized existing Git repository in H:/hello-git/.git/
 8.git -status ---for viewing status such as commits,and file also,tracked or untracked
-9.git-add filenmae
-10 git commit 
+9.git-add filenmae or git add .
+10 git commit -m "My first git commit"
+11 git log ---to see log details
+12 git remote add origin "url "
+13git push -u origin master
