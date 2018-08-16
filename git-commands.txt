@@ -1,0 +1,11 @@
+1. git config --global user.name "shubham"   -- telling about username
+2. git config --global user.email "shubhamtaneja1088@gmail.com"
+3.mkdir hello-git   ---to make new folder
+4.touch git-commands ----to make new file
+5. cat > filename  ---to append file
+6. cd directory name---to move into directory name
+7.$ git init
+    Reinitialized existing Git repository in H:/hello-git/.git/
+8.git -status ---for viewing status such as commits,and file also,tracked or untracked
+9.git-add filenmae
+10 git commit 
